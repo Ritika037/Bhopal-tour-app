@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91229972760",
+    "project_id": "tourguideapp-26215",
+    "storage_bucket": "tourguideapp-26215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91229972760:android:2d90685af6f3e54d88966d",
+        "android_client_info": {
+          "package_name": "com.rohit.examples.android.bhopaldarshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91229972760-pso2q5rc284ks6m96f3ui82ntvl7du0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyDC91AiwNUk2rrmGrUy9Gj5uYh7B5Yv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91229972760-pso2q5rc284ks6m96f3ui82ntvl7du0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
